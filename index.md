@@ -36,3 +36,5 @@ This project explores the use of time series forecasting to predict rideshare fa
 ![Prophet](https://img.shields.io/badge/Prophet-FF6F00?style=flat&logo=forecast&logoColor=white)
 
 [View Presentation](https://drive.google.com/file/d/1OxEzlpymiFckPbTt2TWsgCdXYCSEr846/view?usp=sharing)
+
+---
