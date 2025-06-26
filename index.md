@@ -30,6 +30,8 @@ In this project, my team and I conducted a research study on diabetes using a fu
 
 This project explores the use of time series forecasting to predict rideshare fare prices across Chicago using historical trip data from the city’s data portal. After cleaning and aggregating over 5 million records, various models—including Prophet, SARIMA, and VAR—were applied to capture seasonal trends and improve forecasting accuracy.
 
+<img src="images/time_series.png?raw=true"/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![SARIMA](https://img.shields.io/badge/SARIMA-4CAF50?style=flat&logo=chart-line&logoColor=white)
