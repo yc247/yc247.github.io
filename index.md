@@ -40,6 +40,13 @@ This project explores the use of time series forecasting to predict rideshare fa
 [View Presentation](https://drive.google.com/file/d/1OxEzlpymiFckPbTt2TWsgCdXYCSEr846/view?usp=sharing)
 
 ---
+**Sentiment Analysis ofEarnings Call Transcripts**
+
+This project investigates whether earnings call sentiment can serve as a leading indicator of overall stock market performance, using the S&P 500 index as a proxy. By analyzing earnings call transcripts from January 1, 2022 to January 1, 2024, we test multiple sentiment analysis methods to identify the most predictive approach for stock price movement.
+
+[View Presentation](https://drive.google.com/file/d/1so46n5zk1JFFtidJ3H3MahrezGLphIZ_/view?usp=sharing)
+
+---
 **Examining Education Inequality with a Gendered Lens**
 
 In this project, I analyzed global education data to uncover gender disparities patterns. By visualizing regional trends and identifying key gaps, I provided actionable insights into where gender-based education inequalities persist.
