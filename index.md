@@ -44,8 +44,8 @@ Examining Education Inequality with a Gendered Lens
 
 In this project, I analyzed global education data to uncover gender disparities patterns. By visualizing regional trends and identifying key gaps, I provided actionable insights into where gender-based education inequalities persist.
 
-<p align="center">
-  <img src="images/vis1.png?raw=true" height="200px" style="margin-right:10px;"/>
+<p align="left">
+  <img src="images/vis1.png?raw=true" height="200px"/>
   <img src="images/vis3.png?raw=true" height="200px"/>
 </p>
 
