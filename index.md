@@ -40,9 +40,15 @@ This project explores the use of time series forecasting to predict rideshare fa
 [View Presentation](https://drive.google.com/file/d/1OxEzlpymiFckPbTt2TWsgCdXYCSEr846/view?usp=sharing)
 
 ---
-**Sentiment Analysis ofEarnings Call Transcripts**
+**Sentiment Analysis of Earnings Call Transcripts**
 
 This project investigates whether earnings call sentiment can serve as a leading indicator of overall stock market performance, using the S&P 500 index as a proxy. By analyzing earnings call transcripts from January 1, 2022 to January 1, 2024, we test multiple sentiment analysis methods to identify the most predictive approach for stock price movement.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-397EBB?style=flat&logo=python&logoColor=white)
+![FinBERT](https://img.shields.io/badge/FinBERT-FFD700?style=flat&logo=bert&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
 
 [View Presentation](https://drive.google.com/file/d/1so46n5zk1JFFtidJ3H3MahrezGLphIZ_/view?usp=sharing)
 
