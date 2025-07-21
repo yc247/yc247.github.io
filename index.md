@@ -40,3 +40,18 @@ This project explores the use of time series forecasting to predict rideshare fa
 [View Presentation](https://drive.google.com/file/d/1OxEzlpymiFckPbTt2TWsgCdXYCSEr846/view?usp=sharing)
 
 ---
+Examining Education Inequality with a Gendered Lens
+
+In this project, I analyzed global education data to uncover gender disparities patterns. By visualizing regional trends and identifying key gaps, I provided actionable insights into where gender-based education inequalities persist.
+
+<img src="images/viz1.png?raw=true" style="width:60%; height:auto;"/>
+<img src="images/viz2.png?raw=true" style="width:60%; height:auto;"/>
+<img src="images/viz3.png?raw=true" style="width:60%; height:auto;"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=flat&logo=python&logoColor=white)
+
+[View Code](https://colab.research.google.com/drive/1NiEQks2TgGkkH2j2dm3wdyCGvxMH0wIj#scrollTo=aa945d5c)
